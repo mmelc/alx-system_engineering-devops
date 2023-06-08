@@ -6,4 +6,5 @@ The 4-list more files displays more file
 This lists digita onl
 This scrip prints drectory mzim
 The script moves file
-The script says bye bye betty
+The script says bye bye bett
+The script deletes directory

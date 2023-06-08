@@ -4,4 +4,5 @@ The 2-bring-me-home script change working directory to root
 The 2-listfiles displays allfiles in a lin
 The 4-list more files displays more file
 This lists digita onl
-This scrip prints drectory mzima
+This scrip prints drectory mzim
+The script moves files

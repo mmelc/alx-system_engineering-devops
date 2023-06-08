@@ -5,4 +5,5 @@ The 2-listfiles displays allfiles in a lin
 The 4-list more files displays more file
 This lists digita onl
 This scrip prints drectory mzim
-The script moves files
+The script moves file
+The script says bye bye betty

@@ -1,9 +1,6 @@
 #!/bin/bash
-
 filename="ls_cwd_content"
-
 # Run the ls -la command and write the output to the file
 ls -la > "$filename"
-
 # Display a success message
 echo "File '$filename' created/updated with the content of 'ls -la' command."

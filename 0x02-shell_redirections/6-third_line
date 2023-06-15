@@ -1,0 +1,11 @@
+#!/bin/bash
+filename="iacta"
+line_number=3
+# Check if the file exists
+if [ -f "$filename" ]; then
+    # Use 'head' and 'tail' commands to extract the third line
+    result=$(head -n $line_number "$filename" | tail -n 1)
+    echo "Third line of $filename: $result"
+else
+    echo "$filename does not exist."
+fi

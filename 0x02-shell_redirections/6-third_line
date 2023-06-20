@@ -1,8 +1,2 @@
 #!/bin/bash
-mapfile -t lines < "iacta"
-if [[ ${#lines[@]} -ge 3 ]]; then
-    # Print the third line
-    echo "${lines[2]}"
-else
-    echo "The file 'iacta' does not have at least 3 lines."
-fi
+head -n 3 iacta | tail -n 1

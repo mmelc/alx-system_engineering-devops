@@ -1,2 +1,2 @@
 #!/bin/bash
-dir_count=$(find . -type d)
+tree 0x03-shell_variables_expansions

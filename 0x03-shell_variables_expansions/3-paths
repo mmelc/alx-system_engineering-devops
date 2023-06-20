@@ -1,2 +1,2 @@
 #!/bin/bash
-tree | tail -1
+dir_count=$(find . -type d | wc -l)
